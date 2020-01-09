@@ -1,0 +1,119 @@
+.phonenav{display: block;width: 240px;height: 100%;position: fixed;top: 50px;background-color: rgba(0, 0, 0, 0.8);right: -240px;z-index: 9999;transition: all 0.4s;}
+.phonenav ul{width: 100%;margin-top: 10px;}
+.phonenav ul li{width: 100%;text-align: center;line-height: 40px;}
+.phonenav ul li:hover{background-color: rgba(0, 0, 0, 0.4);}
+.phonenav ul li p{color: #fff;}
+.phonenav ul li ul{display: none;}
+.phonenav ul li ul li{color: #fff;margin-left: 20px;}
+.heanav{display: none;}
+.heacl{display: block;}
+.main{width: 92%;margin-left: 4%;}
+.header{height: 50px;line-height: 50px;position: fixed;top: 0;left: 0;background-color: #fff;z-index: 99999;}
+.logo{width: 150px;height: 50px;line-height: 50px;}
+.logo img{height: 22px;	}
+.header .limg{width: 80px;line-height: 50px;}
+.heacl {width: 35px;height: 35px;margin-top: 7.5px;}
+.banner{height: 200px;margin-top: 50px;}
+.banner img{margin-top: 168px;width: 150px;}
+.intrcon img{width: 100%;margin-bottom: 10px;}
+.intrcon .text{width: 100%;}
+.tit h6{margin-top: 0px;}
+.intrcon .text p{font-size: 12px;}
+.tit h5 span:nth-child(1){font-size: 16px;}
+.tit h5 span:nth-child(2){font-size: 12px;}
+.tit h6{font-size: 16px;}
+.stucon .fl{margin-top: 0;margin-left: 0;}
+.stucon .fl{width: 82%;background-size: 100% 100%;background-repeat: no-repeat;}
+.stucon .fl li{margin-top: 8px;width: 50%;}
+.stucon .fr{margin-right: -2%;margin-top: 30px;margin-left: 2%;}
+.slidecon{height: auto;}
+.slidecon img{height: 50px;}
+.slidecon .dlocon .text h6{font-size: 12px;text-align: center;}
+.slidecon .dlocon .text p{display: -webkit-box;
+-webkit-box-orient: vertical;
+-webkit-line-clamp: 3;
+overflow: hidden;}
+.slidecon .swiper-button-next{right: -30px;}
+.slidecon .swiper-button-prev{left: -30px;}
+.groglist li{width: 85%;margin-left: 0;margin-top: 10px;}
+.kuilist li{width: 45%;}
+.kuilist li:nth-child(2n+1){margin-left: 0;}
+.footer{height: auto;}
+.footimg{float: none;}
+.foottext{margin-top: 15px;margin-left: 8%;}
+.footer .code{float: none;}
+.footer .code img{margin-left: 20%;margin-top: 20px;margin-bottom: 30px;}
+.dbtbanner{height: 150px;margin-top: 50px;}
+.crumbs{font-size: 12px;}
+.conmain{width: 88%;margin-left: 4%;padding:20px 2%;}
+.mktiit h5{width: 100%;left: 0;margin-left: 0;font-size: 16px;}
+.mktiit h6{font-size: 16px;}
+.huiotit{font-size: 12px;height: 12px;}
+.conmain .text{font-size: 8pt;line-height: 24px;}
+.modstu li .text{width: 69%;}
+.contitbtn{width: 100px;height: 25px;line-height: 25px;font-size: 8pt;}
+.conmain .textdb .yuan::before{height: 0;}
+.conmain .textdb{font-size: 8pt;line-height: 22px;}
+.mklistb li{width: 46%;margin-left: 2%;height: 80px;margin-top: 0;}
+.mklistb li p span{margin-left: 0;margin-right: 2px;}
+.mklistb li p{font-size: 8pt;}
+.conmain .textdb .yuan{margin-top: 8px;margin-right: 10px;}
+.mainabo{width: 92%;margin-left: 4%;}
+.lnav{margin-top: 70px;width: 100%;}
+.lnav li{float: left;margin-top: 0;margin-left: 4%;width: 28%;}
+.lnav a:first-of-type li{margin-left: 0;}
+.abocondb{width: 96%;padding:0;margin-top: 20px;padding:2%;}
+.linutit {font-size: 12px;}
+.linutit .con{padding-left: 14px;padding-right: 14px;}
+.newslistdb li .newsimg{width: 20%;}
+.newslistdb li p{display: -webkit-box;
+-webkit-box-orient: vertical;
+-webkit-line-clamp: 3;
+overflow: hidden;font-size: 8pt;line-height: 18px;}
+.newslistdb li h6{font-size: 12px;line-height: 16px;}
+.newslistdb li h6 img{width: 26px;margin-left: 4px;}
+
+.newslistdb li .time{font-size: 12px;line-height: 20px;position: absolute;right: 2%;bottom: 2%;}
+.newslistdb li{height: 80px;position: relative;padding-bottom: 40px;}
+.page ul{margin-top: 10px;}
+.page ul li{margin-top: 8px;}
+.page input{margin-top: 8px;}
+.page span{margin-top: 8px;}
+.aboconceimg{width: 100%;margin-left: 0;height: 230px;}
+.abocenui{width: 100%;padding-left: 0;}
+.abomecon p{font-size: 8pt;}
+.abomakimg{width: 100%;height: 450px;}
+.abomakimg img{width: 100%;height: 100%;height: 440px;}
+.bomabocon{height: auto;}
+.bomabocon ul{width: 96%;margin-right: 0;margin-left: 2%;margin-right: 2%;}
+.bomabocon ul li p{font-size: 8pt;}
+.dbmain{padding-top: 60px;}
+.textmodkil p{margin-top: 10px;font-size: 8pt;}
+.lnav ul{padding-left: 8%;}
+.loiuyn{font-size: 14px;margin-top: 10px;margin-bottom: 15px;}
+.mmkilist{display: block;}
+.mmkilist li{margin-left: 0;padding: 8%;width: 84%;margin-top: 20px;}
+.likutext{font-size: 8pt;}
+.mmkilist li p{margin-top: 6px;}
+.tenlistmod li{width: 100%;margin-left: 0;}
+.tenlistmod li .frtext{margin-right: 2%;margin-left: 2%;width: 66%;font-size: 8pt;}
+.tenlistmod li{margin-top: 6px;}
+.stubhlist li{width: 100%;margin-left: 0;height: auto;margin-top: 6px;}
+.stubhlist li img{width: 100%;height: 100%;}
+.bomhumod .fl{width: 100%;margin-top: 10px;}
+.bomhumod .fl img{width: 100%;}
+.modstu li{width: 100%;padding: 0;margin-left: 0;margin-top: 6px;}
+.modstu li .text p{margin-top: 0;font-size: 8pt;}
+.modstu li .text h6{margin-top: 0;font-size: 14px;}
+.modstu li img{margin-top: 0.8%;margin-left: 0.8%;}
+.bulecon{padding-bottom: 10px;}
+.groglist li{width: 92% !important;padding:4%;}
+.dbbanner{height: 200px;margin-top: 50px;}
+.lintext{text-indent: 20px;}
+.dbkuilist li{width: 46% !important;margin-left: 6.5%;margin-top: 6px;}
+.stusklist{padding: 0;}
+.stusklist ul li{padding: 0;width: 64%;margin-left: 18% !important;margin-top: 70px;}
+.stusklist{padding-bottom: 20px;}
+.centit{margin-top: 20px;margin-bottom: 20px;}
+.centit2{font-size: 16px;}
+.centit{font-size: 18px;}
